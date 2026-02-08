@@ -4,7 +4,7 @@ using Jotunn.Utils;
 using UnityEngine;
 using UnityEngine.Rendering;
 
-namespace Template
+namespace A2.NoStartupLogo
 {
     [BepInPlugin(PluginInfo.PluginGUID, PluginInfo.PluginName, PluginInfo.PluginSemanticVersion)]
     [BepInDependency(Jotunn.Main.ModGuid, BepInDependency.DependencyFlags.HardDependency)]
